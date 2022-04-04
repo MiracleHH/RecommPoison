@@ -10,7 +10,7 @@ Python ≥ 3.6, Pandas ≥ 1.0, NumPy ≥ 1.19, PyTorch ≥ 1.4.
 
 ### Dataset Preparation
 
-Please follow the instructions in [data processing](./data_processing/README.md) to prepare the datasets for experiments.
+Please follow the instructions in [data processing](./data_processing/) to prepare the datasets for experiments.
 
 ## Examples
 
@@ -34,7 +34,7 @@ Similarly, you can use the following command to conduct the bandwagon attack:
 python bandwagon_attack.py --path Data/ --dataset ml-100k --epochs 20 --batch_size 256 --num_factors 8 --layers "[64,32,16,8]" --l2_reg 0 --num_neg 4 --lr 0.001 --m 5 --n 30 --topK 10 --targetItem 100
 ```
 
-You can refer to the instructions in [attacks](./attacks/README.md) for more details.
+You can refer to the instructions in [attacks](./attacks/) for more details.
 
 
 ## Citation
