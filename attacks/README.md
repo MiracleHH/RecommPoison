@@ -1,5 +1,7 @@
 # Data Poisoning Attacks to Deep Learning Based Recommender Systems
-This repository is the major code implementation for the paper "Data Poisoning Attacks to Deep Learning Based Recommender Systems".
+This repository is the major code implementation for the paper:
+
+Hai Huang, Jiaming Mu, Neil Zhenqiang Gong, Qi Li, Bin Liu, Mingwei Xu. [Data Poisoning Attacks to Deep Learning Based Recommender Systems](https://www.ndss-symposium.org/wp-content/uploads/2021-525-paper.pdf). In ISOC Network and Distributed System Security Symposium (NDSS), 2021.
 
 ## Setup
 ### Environment requirements
